@@ -40,7 +40,6 @@ subtitle_font = pygame.font.SysFont('Arial', 20, bold=True)
 
 class VacuumAgent:
     def __init__(self):
-        # PEAS Description (for reference only)
         # Performance Measure: Clean all dirt and return to home with minimum energy
         # Environment: 4x4 grid world with dirt in some locations
         # Actuators: Movement (N, S, E, W), Suck dirt, Empty bag
