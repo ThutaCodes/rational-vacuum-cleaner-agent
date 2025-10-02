@@ -1,5 +1,7 @@
 # Rational Vacuum Cleaner Agent
 
+[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2025-blue)](https://hacktoberfest.com/)
+
 This project simulates a rational vacuum cleaner agent in a 4x4 grid world using Python and Pygame.
 
 ## Features
@@ -52,3 +54,11 @@ This project simulates a rational vacuum cleaner agent in a 4x4 grid world using
 ---
 
 Feel free to modify the agent logic or UI for your own experiments!
+
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
